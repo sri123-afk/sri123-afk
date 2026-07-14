@@ -12,9 +12,6 @@ Based on what I know about your background, here's a professional GitHub profile
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sri123-afk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=sri123-afk&icon=4&color=8)](https://visitcount.itsvg.in)
 
